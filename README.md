@@ -5,9 +5,13 @@ Python and Jupyter: Build Your Success
 
 ## Language
 
-
+[Python](https://python.org)
 
 ## Tools
+
+[Jupyter](https://jupyter.org)
+
+[Jupyter Grace Hopper Open Source Day](https://jupyter-ghc.readthedocs.io/en/latest/)
 
 [Yes you can git](https://speakerdeck.com/willingc/yes-you-can-git)
 
