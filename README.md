@@ -20,6 +20,8 @@ Python and Jupyter: Build Your Success
 [San Diego Python and PyLadies San Diego](https://pythonsd.org/index.html)
     - [Getting Started](https://www.pythonsd.org/pages/getting-started.html)
     - [Workshops](https://www.pythonsd.org/pages/workshops.html)
+    - [Intro to Python Workshop](https://github.com/pythonsd/intro-to-python) Click Launch it on Binder Badge
+    
 
 ## Beyond Python
 
