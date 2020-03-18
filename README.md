@@ -17,7 +17,9 @@ Python and Jupyter: Build Your Success
 
 ## Community
 
-
+[San Diego Python and PyLadies San Diego](https://pythonsd.org/index.html)
+    - [Getting Started](https://www.pythonsd.org/pages/getting-started.html)
+    - [Workshops](https://www.pythonsd.org/pages/workshops.html)
 
 ## Beyond Python
 
