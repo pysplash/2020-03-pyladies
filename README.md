@@ -24,6 +24,8 @@ Python and Jupyter: Build Your Success
 
 PyCon Videos on pyvideo.org or YouTube (also SciPy, PyData, Regional and International)
 
+[GitHub Trending](https://github.com/trending/jupyter-notebook)
+
 ## Beyond Python
 
 [EPIC Workshop - Interactive Computing for Teens](https://github.com/willingc/epic-interactive)
